@@ -26,8 +26,8 @@ Este repositório tem como objetivo reunir exemplos e estudos sobre automação 
 - Praticar boas práticas de estrutura de automação
 - Usar Ruby como linguagem principal para QA técnico
  
-Cada projeto possui seu próprio README.md com instruções específicas de execução e estrutura.
-**
+**Cada projeto possui seu próprio README.md com instruções específicas de execução e estrutura.**
+
 📝 Observações
 Os testes utilizam APIs públicas ou ambientes simulados para fins educacionais.
 
